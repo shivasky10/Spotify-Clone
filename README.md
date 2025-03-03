@@ -16,7 +16,8 @@ A simple **Spotify Clone** built using **HTML & CSS** to replicate the UI of the
 - Font Awesome Icons
 
 ## 📸 Preview
-![Spotify Clone Preview](![Screenshot 2025-03-03 7 10 41 PM](https://github.com/user-attachments/assets/a9be7425-1335-4c59-822d-29e74e648459)
+![Spotify Clone Preview](![Screenshot 2025-03-03 7 10 41 PM](https://github.com/user-attachments/assets/ea402b91-0a6a-4d78-9b63-31b85ef38f78)
+)
 )
 
 ## 🛠️ Installation & Usage
