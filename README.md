@@ -1,6 +1,5 @@
 # Spotify-Clone
 
-# Spotify Clone
 
 A simple **Spotify Clone** built using **HTML & CSS** to replicate the UI of the Spotify web player.
 
@@ -17,7 +16,8 @@ A simple **Spotify Clone** built using **HTML & CSS** to replicate the UI of the
 - Font Awesome Icons
 
 ## 📸 Preview
-![Spotify Clone Preview](link-to-your-screenshot)
+![Spotify Clone Preview](![Screenshot 2025-03-03 7 10 41 PM](https://github.com/user-attachments/assets/a9be7425-1335-4c59-822d-29e74e648459)
+)
 
 ## 🛠️ Installation & Usage
 1. **Clone the repository**
