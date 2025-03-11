@@ -31,7 +31,7 @@ A simple **Spotify Clone** built using **HTML & CSS** to replicate the UI of the
    ```
 3. **Open `index.html` in your browser**
 
-## 📌 Project Structure
+## 📌 Project Structure 
 ```
 Spotify-Clone/
 │── assests/              # Contains images and icons
